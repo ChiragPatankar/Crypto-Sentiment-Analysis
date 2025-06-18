@@ -97,4 +97,13 @@ MIT License - see LICENSE file for details
 - All data collection follows platform terms of service
 - User privacy is protected
 - Transparent about data sources and potential biases
-- Regular bias audits of ML models 
+- Regular bias audits of ML models
+
+  ---
+
+## 📬 Contact
+
+* **Preksha Dewoolkar** – [LinkedIn](https://linkedin.com/in/preksha-prashant-dewoolkar-2224512a9) | [GitHub](https://github.com/preksha2166)
+* **Chirag Patankar** – [LinkedIn](https://linkedin.com/in/chiragpatankar) | [GitHub](https://github.com/ChiragPatankar)
+
+---
